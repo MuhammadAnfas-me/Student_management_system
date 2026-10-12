@@ -1,0 +1,5 @@
+<CodeBlock language="text"> 
+node_modules/ 
+dist/ 
+.env 
+</CodeBlock>
